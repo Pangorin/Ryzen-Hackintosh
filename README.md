@@ -130,3 +130,5 @@ GPU: Zotac GTX 650 1GB
 BEFORE USING MY EFI, PLEASE REPLACE THE SMBIOS!
 
   
+**Special thanks to OpenCore's developers, such a great work!**
+Copyright [Dortania's OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/)
