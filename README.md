@@ -1,7 +1,7 @@
 # Ryzen-Hackintosh
 ``Hackintosh guide for Ryzen system.``
 
-**Getting started:**
+## **Getting started:**
 Necessary things:
   + Al least 4GB USB stick
   + Time and patience
@@ -36,7 +36,7 @@ Once done it should look like this:
 
 **Now with all these done, let's move on to the next section**
 
-## Adding the base OpenCore files and gathering files
+## **Adding the base OpenCore files and gathering files**
 **Cleaning up the EFI:**
 
 Lets open up our EFI folder and see what's inside:
