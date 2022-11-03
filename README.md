@@ -13,7 +13,8 @@ Necessary things:
 Creating the USB: (for Windows users)
   + Python 3.11: [Download](https://www.python.org/downloads/) 
   + OpenCorePKG: [Download](https://github.com/acidanthera/OpenCorePkg/releases) (download the `Release`)
- I choose the Disk Management method
+
+I choose the Disk Management method
   + GUI based, simplest way
   + Only UEFI systems are supported (all Ryzen systems are UEFI)
 
